@@ -2,3 +2,5 @@ Rencana Agung
 -Buat Brand Baju
 -Buat Aplikasi
 -Buat Web Portofolio
+-Buat Design Web
+-Buat Design Logo
